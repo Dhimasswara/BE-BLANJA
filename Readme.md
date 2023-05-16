@@ -1,15 +1,15 @@
 <br />
 <p align="center">
   <div align="center">
-    <img height="150" src="./docs/readme/logo.png" alt="markisak" border="0"/>
+    <img height="150" src="./docs/readme/logo.png" alt="blanja" border="0"/>
   </div>
-  <h3 align="center">Markisak (Recipe App)</h3>
+  <h3 align="center">Blanja</h3>
   <p align="center">
-    <a href="https://github.com/dhimasswara/BE-MARKISAK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/BE-BLANJA"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://markisak-fe.vercel.app">View Demo</a>
+    <a href="https://ui-blanja.vercel.app/">View Demo</a>
     ·
-    <a href="https://markisak-be-production-ddec.up.railway.app">Api Demo</a>
+    <a href="https://be-blanja-production.up.railway.app/">Api Demo</a>
   </p>
 </p>
 
@@ -26,13 +26,11 @@
 
 # About The Project
 
-Markisak is a food recipe website project that aims to inspire users to cook and share their favorite recipes. The name Markisak means "let's cook" in Indonesian. On this website, users can search for recipes, share their own recipes, and connect with other food enthusiasts.
+Blanja is an E-commerce website project that aims to provide an easy and convenient online shopping experience for users in Indonesia. The site offers a wide range of products, including fashion, beauty, electronics, and food and beverages.
 
-One of Markisak's main features is its user-friendly search function. Users can search for recipes by food name. The website also provides detailed recipe instructions, ingredient lists, and video tutorials to assist users in the cooking process.
+To use Blanja's services, users only need to create an account and enter their payment details. After that, users can browse products, add them to their shopping cart, and choose their preferred payment method.
 
-Another unique feature of Markisak is that users can create their own profiles, connect with other users, and share their favorite recipes. This allows users to learn from each other and explore new culinary ideas.
-
-To use the Markisak website, users simply need to create an account and start searching or sharing recipes. The site is designed to be easy to use and accessible to all levels of culinary expertise
+With all the features and security provided, Blanja is expected to provide a safe, easy, and convenient online shopping experience for users across Indonesia.
 
 ## Built With
 
@@ -43,7 +41,6 @@ These are the libraries and service used for building this backend API
 - [PostgreSQL](https://www.postgresql.org)
 - [Json Web Token](https://jwt.io)
 - [Multer](https://github.com/expressjs/multer)
-- [Google Cloud Platform](https://cloud.google.com)
 
 # Installation
  <br />
@@ -52,23 +49,23 @@ These are the libraries and service used for building this backend API
 
   <div align="center">
 
-    <img height="150" src="./docs/readme/logo.png" alt="markisak" border="0"/>
+    <img height="150" src="./doc/logo.png" alt="blanja" border="0"/>
 
   </div>
 
-  <h3 align="center">Markisak (Recipe App)</h3>
+  <h3 align="center">Blanja</h3>
 
   <p align="center">
 
-    <a href="https://github.com/dhimasswara/BE-MARKISAK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dhimasswara/BE-BLANJA"><strong>Explore the docs »</strong></a>
 
     <br />
 
-    <a href="https://markisak-fe.vercel.app">View Demo</a>
+    <a href="https://ui-blanja.vercel.app/">View Demo</a>
 
     ·
 
-    <a href="https://markisak-be-production-ddec.up.railway.app">Api Demo</a>
+    <a href="https://be-blanja-production.up.railway.app/">Api Demo</a>
 
   </p>
 
@@ -102,19 +99,19 @@ These are the libraries and service used for building this backend API
 
 
 
-Markisak is 
+Blanja is
 Follow this steps to run the server locally :
 
 1. Clone this repository
 
 ```sh
-git clone https://github.com/ikkair/markisak-be
+git clone https://github.com/dhimasswara/BE-BLANJA
 ```
 
 2. Change directory to markisak-be
 
 ```sh
-cd markisak-be
+cd BE-BLANJA
 ```
 
 3. Install all of the required modules
@@ -156,7 +153,6 @@ Documentation files are provided in the [docs](./docs) folder
 
 - [Postman API colletion](./docs/Markisak-be.postman_collection.json)
 - [PostgreSQL database query](./docs/markisak-database-query.sql)
-- [Database diagram](./docs/markisak-database-diagram.png)
 
 API endpoint list are also available as published postman documentation
 
@@ -164,12 +160,12 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Backend Markisak`](https://github.com/dhimasswara/BE-MARKISAK)
+:rocket: [`Backend Blanja`](https://github.com/dhimasswara/BE-BLANJA)
 
-:rocket: [`Frontend Markisak`](https://github.com/dhimasswara/UI-MARKISAK)
+:rocket: [`Frontend Blanja`](https://github.com/dhimasswara/UI-BLANJA)
 
-:rocket: [`Demo Markisak`](https://markisak-fe.vercel.app/)
+:rocket: [`Demo Blanja`](https://ui-blanja.vercel.app/)
 
 
 
-Project link : [https://github.com/dhimasswara/BE-MARKISAK](https://github.com/dhimasswara/BE-MARKISAK)
+Project link : [https://github.com/dhimasswara/BE-BLANJA](https://github.com/dhimasswara/BE-BLANJA)
